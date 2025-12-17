@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Download</title>
+</head>
+<body style="text-align:center; margin-top:100px; font-family:Arial;">
+  <h1>Download File</h1>
+
+  <a href="YOUR_FILENAME.apk" download>
+    <button style="font-size:20px;padding:15px 30px;">
+      Download Now
+    </button>
+  </a>
+
+</body>
+</html>
